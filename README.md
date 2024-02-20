@@ -7,7 +7,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="yoda" height="150" style="border-radius:50px;" src="https://tenor.com/view/baby-yoda-hi-hello-greet-wave-gif-15912640">
+  <img align="right" alt="yoda" height="150" style="border-radius:50px;" src="https://media1.tenor.com/m/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif">
   
 </div>
   
